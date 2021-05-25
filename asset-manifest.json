@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Connect4_Bot/static/css/main.10206295.chunk.css",
+    "main.js": "/Connect4_Bot/static/js/main.ba36c8cf.chunk.js",
+    "main.js.map": "/Connect4_Bot/static/js/main.ba36c8cf.chunk.js.map",
+    "runtime-main.js": "/Connect4_Bot/static/js/runtime-main.7f2dba8f.js",
+    "runtime-main.js.map": "/Connect4_Bot/static/js/runtime-main.7f2dba8f.js.map",
+    "static/js/2.357ed516.chunk.js": "/Connect4_Bot/static/js/2.357ed516.chunk.js",
+    "static/js/2.357ed516.chunk.js.map": "/Connect4_Bot/static/js/2.357ed516.chunk.js.map",
+    "index.html": "/Connect4_Bot/index.html",
+    "static/css/main.10206295.chunk.css.map": "/Connect4_Bot/static/css/main.10206295.chunk.css.map",
+    "static/js/2.357ed516.chunk.js.LICENSE.txt": "/Connect4_Bot/static/js/2.357ed516.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f2dba8f.js",
+    "static/js/2.357ed516.chunk.js",
+    "static/css/main.10206295.chunk.css",
+    "static/js/main.ba36c8cf.chunk.js"
+  ]
+}
